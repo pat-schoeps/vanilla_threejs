@@ -1,5 +1,5 @@
 {
-  "name": "vanilla_threejs",
+  "name": "collisions",
   "version": "1.0.0",
   "description": "practice",
   "main": "index.js",
@@ -21,7 +21,6 @@
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^4.3.0",
     "style-loader": "^1.2.1",
-    "three": "^0.116.1",
     "webpack": "^4.43.0",
     "xml-loader": "^1.2.1"
   }
